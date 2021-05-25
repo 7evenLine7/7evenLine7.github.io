@@ -20,7 +20,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-		strings: ["16 y.o", "7evenline", "PUBGM id: 5361770187", "nobody"],
+        strings: ["Shell script", "hacker", "C++ developer", "bruh"],
         typeSpeed: 50,
         loop: true,
         cursorChar: "|",
